@@ -47,7 +47,7 @@ body
 
 .header-architechure 
 {
-    background-image:url("Maquette-ARCLABS/IMG/header-bg.jpg");
+    background-image:url("././Maquette-ARCLABS//IMG/header-bg.jpg");
     background-size:cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -93,7 +93,7 @@ h1
 {
     height: 50vh;
     width: 24vw; 
-    background-image:url("Maquette-ARCLABS/IMG/p1.png");
+    background-image:url("./Maquette-ARCLABS//IMG/p1.png");
     background-size:cover;
     background-repeat: no-repeat;
     border-radius: 10px;
@@ -103,7 +103,7 @@ h1
 {
     height: 50vh;
     width: 24vw;
-    background-image:url("Maquette-ARCLABS/IMG/p2.png");
+    background-image:url("./Maquette-ARCLABS//IMG/p2.png");
     background-size:cover;
     background-repeat: no-repeat;
     border-radius: 10px
@@ -113,7 +113,7 @@ h1
 {
     height: 50vh;
     width: 24vw;
-    background-image:url("Maquette-ARCLABS/IMG/p3.png");
+    background-image:url("./Maquette-ARCLABS//IMG/p3.png");
     background-size:cover;
     background-repeat: no-repeat;
     border-radius: 10px
@@ -124,7 +124,7 @@ h1
 {
     height: 50vh;
     width: 24vw;
-    background-image:url("Maquette-ARCLABS/IMG/p4.png");
+    background-image:url("./Maquette-ARCLABS//IMG/p4.png");
     background-size:cover;
     background-repeat: no-repeat;
     border-radius: 10px
@@ -141,7 +141,7 @@ h1
 
   .iframe-image 
 {
-    background-image:url("Maquette-ARCLABS/IMG/ct1.jpg");
+    background-image:url("./Maquette-ARCLABS//IMG/ct1.jpg");
     background-size:cover;
     background-repeat: no-repeat;
     width: 100%;
